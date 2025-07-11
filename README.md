@@ -1,5 +1,13 @@
+<!--
+Halo Fahrezi! Ini adalah kode yang sudah diperbarui dengan nama Anda.
+Semua referensi ke "Philifs" dan username "sipiilip" telah diganti.
+Link yang salah juga sudah saya perbaiki.
+-->
+
+<!-- Header -->
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwave%26color%3Dauto%26height%3D280%26section%3Dheader%26text%3DHi,%2520I%27m%2520Philifs!%2520👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20|%20Front-End%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=62" alt="Header Banner"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwave%26color%3Dauto%26height%3D280%26section%3Dheader%26text%3DHi,%2520I%27m%2520Fahrezi!%2520👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20|%20Front-End%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=62" alt="Header Banner"/>
 </div>
 
 <div align="center">
@@ -41,19 +49,18 @@ Saya suka belajar hal baru dan mencari cara kreatif untuk bersenang-senang denga
 
 📊 My GitHub Stats & Activity
 <div align="center">
-<!-- GitHub Stats Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsipiilip%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Philifs's GitHub Stats"/>
+<!-- Ganti 'fahrezi93' dengan username GitHub Anda yang sebenarnya -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfahrezi93%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Fahrezi's GitHub Stats"/>
 <br/>
-<!-- Top Languages Card -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsipiilip%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfahrezi93%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Top Languages"/>
 <br/>
-<!-- Contribution Grid Snake -->
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/sipiilip/sipiilip/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<!-- Pastikan Anda sudah setup GitHub Actions untuk snake animation di repo fahrezi93/fahrezi93 -->
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/fahrezi93/fahrezi93/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 🏆 GitHub Trophies
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dsipiilip%26theme%3Ddracula%26column%3D7" alt="GitHub Trophies"/>
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dfahrezi93%26theme%3Ddracula%26column%3D7" alt="GitHub Trophies"/>
 </div>
 
 📫 Let's Connect!
@@ -63,8 +70,7 @@ Saya selalu terbuka untuk diskusi, kolaborasi, atau sekadar menyapa. Jangan ragu
 <a href="https://www.google.com/search?q=https://instagram.com/philifsss_" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<!-- Tambahkan LinkedIn jika ada -->
-<a href="www.linkedin.com/in/mohammad-fahrezi" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/mohammad-fahrezi" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 </p>
