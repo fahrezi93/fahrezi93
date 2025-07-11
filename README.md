@@ -59,7 +59,7 @@
 ### 📫 Let's Connect!
 <div align="center">
   <p>Saya selalu terbuka untuk diskusi, kolaborasi, atau sekadar menyapa. Jangan ragu untuk menghubungi saya!</p>
-  <a href="https://instagram.com/philifsss_" target="_blank">
+  <a href="https://www.instagram.com/moh.fahrezi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammad-fahrezi" target="_blank">
