@@ -64,7 +64,7 @@
 
 <div align="center">
   <p>Jangan ragu untuk diskusi, kolaborasi, atau sekadar menyapa!</p>
-  <a href="https://instagram.com/philifsss_" target="_blank">
+  <a href="https://instagram.com/moh.fahrezi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammad-fahrezi" target="_blank">
