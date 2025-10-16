@@ -1,8 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Hi,%20I'm%20Fahrezi!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=University%20Student%20|%20Front-End%20Developer%20|%20Cloud%20Enthusiast&descAlignY=51&descAlign=62" alt="Header Banner"/>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=fahrezi93&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors"/>
-  </p>
 </div>
 
 <div align="center">
