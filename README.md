@@ -42,10 +42,6 @@
 
 ---
 
-### ⚡ Recent GitHub Activity
-
----
-
 ### 📊 My GitHub Stats & Trophies
 
 <div align="center">
