@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=051937,0087ff&height=280&section=header&text=Hi,%20I'm%20Fahrezi!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=University%20Student%20|%20Fullstack%20Developer%20|%20Cloud%20Enthusiast&descAlignY=55&descAlign=50&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=051937,0087ff&height=280&section=header&text=Hi,%20I'm%20Fahrezi!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=University%20Student%20|%20Full-Stack%20Developer%20|%20Cloud%20Enthusiast&descAlignY=55&descAlign=50&fontColor=fff" />
 </div>
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Welcome+to+my+GitHub+Profile!;FullStack+Developer+and+Cloud+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Cloud+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -19,7 +19,7 @@
 const fahrezi = {
     university: "Sriwijaya University",
     role: "University Student",
-    passions: ["Front-End Development", "Cloud Computing"],
+    passions: ["Full-Stack Development", "Cloud Computing"],
     currentlyLearning: ["React", "Google Cloud Platform"],
     askMeAbout: ["Web Dev", "Cloud", "UI/UX"],
     funFact: "I believe bugs are just undocumented features! 🐛"
@@ -27,7 +27,7 @@ const fahrezi = {
 ```
 
 - 🎓 Studying at **Sriwijaya University**
-- 💻 Passionate about **Front-End Development** & **Cloud Computing**
+- 💻 Passionate about **Full-Stack Development** & **Cloud Computing**
 - 🌱 Currently exploring **React** and **GCP**
 - 🤝 Open for collaborations on exciting projects!
 - ⚡ Love building impactful projects from the open-source community!
@@ -51,15 +51,27 @@ const fahrezi = {
 ### ⚡ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & Databases
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -96,6 +108,14 @@ const fahrezi = {
 
 ---
 
+## 🐍 Snake Game
+
+<div align="center">
+  <img src="https://github.com/fahrezi93/fahrezi93/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📌 Featured Projects
 
 <p align="center">
@@ -107,11 +127,13 @@ const fahrezi = {
 <br/>
 
 <p align="center">
-  <a href="https://github.com/fahrezi93/fahrezi93">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fahrezi93&repo=fahrezi93&theme=dracula&hide_border=true" alt="Readme Card"/>
+  <a href="https://github.com/fahrezi93/diskusi-bisnis-website">
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fahrezi93&repo=diskusi-bisnis-website&theme=dracula&hide_border=true" alt="Diskusi Bisnis Website"/>
+  </a>
+  <a href="https://github.com/fahrezi93/kreativlabs.id-website">
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fahrezi93&repo=kreativlabs.id-website&theme=dracula&hide_border=true" alt="Kreativlabs.id Website"/>
   </a>
 </p>
-
 ---
 
 ## 🌐 Let's Connect!
@@ -127,7 +149,10 @@ const fahrezi = {
   <a href="https://www.linkedin.com/in/mohammad-fahrezi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:fahrezi@student.unsri.ac.id" target="_blank">
+  <a href="https://fahrezi.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Website-fahrezi.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:hello@fahrezi.tech" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
