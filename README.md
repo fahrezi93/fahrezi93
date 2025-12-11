@@ -32,10 +32,10 @@
 ### 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/fahrezi93/nama-repo-1">
+  <a href="https://github.com/fahrezi93/diskusi-bisnis-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahrezi93&repo=thrifting-ecommerce&theme=dracula" alt="Project 1"/>
   </a>
-  <a href="https://github.com/fahrezi93/nama-repo-2">
+  <a href="https://github.com/fahrezi93/kreativlabs.id-website ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fahrezi93&repo=NutriSuggest&theme=dracula" alt="Project 2"/>
   </a>
 </p>
