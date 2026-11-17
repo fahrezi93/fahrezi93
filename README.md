@@ -4,7 +4,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Cloud+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9¢er=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Cloud+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -17,19 +17,19 @@
 
 ```javascript
 const fahrezi = {
-    university: "Sriwijaya University",
-    role: "University Student",
+    almaMater: "Sriwijaya University",
+    role: "Full-Stack Developer",
     passions: ["Full-Stack Development", "Cloud Computing"],
-    currentlyLearning: ["React", "Google Cloud Platform"],
+    currentlyExploring: ["React", "Google Cloud Platform"],
     askMeAbout: ["Web Dev", "Cloud", "UI/UX"],
     funFact: "I believe bugs are just undocumented features! 🐛"
 };
 ```
 
-- 🎓 Studying at **Sriwijaya University**
+- 🎓 Graduate from **Sriwijaya University**
 - 💻 Passionate about **Full-Stack Development** & **Cloud Computing**
 - 🌱 Currently exploring **React** and **GCP**
-- 🤝 Open for collaborations on exciting projects!
+- 🤝 Open for collaborations, freelance, and full-time opportunities!
 - ⚡ Love building impactful projects from the open-source community!
 
 <br clear="both"/>
@@ -134,6 +134,7 @@ const fahrezi = {
     <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fahrezi93&repo=kreativlabs.id-website&theme=dracula&hide_border=true" alt="Kreativlabs.id Website"/>
   </a>
 </p>
+
 ---
 
 ## 🌐 Let's Connect!
@@ -149,10 +150,10 @@ const fahrezi = {
   <a href="https://www.linkedin.com/in/mohammad-fahrezi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fahrezi.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Website-fahrezi.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://mohfahrezi.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mohfahrezi.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="mailto:hello@fahrezi.tech" target="_blank">
+  <a href="mailto:hello@mohfahrezi.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -160,5 +161,5 @@ const fahrezi = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=051937,0087ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=051937,0087ff&height=120§ion=footer" />
 </div>
